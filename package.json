@@ -10,10 +10,12 @@
   },
   "keywords": [
     "tracker",
+    "CCPA",
+    "cookielaw",
     "javascript",
-    "browser",
-    "library",
-    "CCPA"
+    "fetch",
+    "xhr",
+    "browser"
   ],
   "author": "Maxime Helen",
   "license": "ISC",
